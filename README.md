@@ -1,5 +1,7 @@
 # ⚡ Classroom Electricity Usage Forecasting
 
+![Dashboard Screenshot](assets/dashboard.png)
+
 A smart energy forecasting system that uses **Wi-Fi occupancy logs** to predict classroom electricity consumption. Built with an **ARIMAX model**, this project provides real-time insights and next-hour demand predictions with 95% confidence intervals.
 
 ## 🌟 Key Features
